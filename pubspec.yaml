@@ -51,6 +51,8 @@ flutter:
   assets:
     - lang/en.json
     - lang/th.json
+    - lang/de.json
+    - lang/sk.json
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
